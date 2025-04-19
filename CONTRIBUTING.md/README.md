@@ -1,8 +1,8 @@
 
 # Contributing to Cloud Storage System
 
-Thank you for considering contributing to Cloud Storage System! Your contributions make this project better for everyone.
-<br><br>
+<h4>Thank you for considering contributing to Cloud Storage System! Your contributions make this project better for everyone.</h4>
+<br>
 
 ## How to Contribute:
 You can contribute in the following ways:
